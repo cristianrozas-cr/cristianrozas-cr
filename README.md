@@ -16,7 +16,7 @@ HtML, CSS, Bootstrap, Git.
 [![Instagram](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/crenz.rz/)
 
 
-## Other Common Github Profile Sections
+## Extra
 👩‍💻 I'm currently working on advanced css projects.
 
 🧠 I'm currently learning CSS and Javascript.
