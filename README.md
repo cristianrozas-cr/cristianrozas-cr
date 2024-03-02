@@ -7,7 +7,7 @@ I am a computer science student and I am currently taking a fullstack bootcamp. 
 
 
 ## 🛠 Skills
-HtML, CSS, Bootstrap, Git.
+HTML, CSS, JavaScript, Bootstrap, Git.
 
 
 ## 🔗 Links
