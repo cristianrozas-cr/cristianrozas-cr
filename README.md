@@ -3,11 +3,11 @@
 
 
 ## 🚀 About Me
-I am a computer science student and I am currently taking a fullstack bootcamp. I am constantly creating new projects to learn and improve my skills. Here you can see all my learning path.
+I am a Computer Science student and I am currently taking a fullstack JavaScript Bootcamp. I am constantly creating new projects to learn and improve my skills. Here you can see all my learning path.
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, Bootstrap, Git.
+HTML, CSS, JavaScript, React, Bootstrap, Git.
 
 
 ## 🔗 Links
