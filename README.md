@@ -7,7 +7,7 @@ I am a Computer Science student and I am currently taking a fullstack JavaScript
 
 
 ## 🛠 Skills
-HTML, CSS, JavaScript, React, Bootstrap, Git.
+HTML, CSS, JavaScript, React, Bootstrap, PostgreSQL, Git.
 
 
 ## 🔗 Links
