@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristian Rozas</h1>
 <h3 align="center">I am a Computer Science student and I am currently learning Full Stack development. I am constantly creating new projects to learn and improve my skills. Here you can see my entire learning path.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cristianrozas-cr&label=Profile%20views&color=0e75b6&style=flat" alt="cristianrozas-cr" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristianrozas-cr" alt="cristianrozas-cr" /></a> </p>
-
 - 🌱 I’m currently learning **NodeJS, ExpressJS and PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/cristianrozas-cr](https://github.com/cristianrozas-cr)
