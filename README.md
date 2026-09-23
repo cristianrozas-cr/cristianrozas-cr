@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/cristianrozas-cr](https://github.com/cristianrozas-cr)
 
-- 📫 How to reach me: **cristianrozas.cr@gmail.com**
+- 📫 How to reach me: **cristianrozas.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
